@@ -26,8 +26,8 @@ api/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/sua-api-node.git
-cd sua-api-node
+git clone https://github.com/devthiagorodrigues/node-api-simples.git
+cd node-api-simples
 ````
 
 ### 2. Instale as dependências
